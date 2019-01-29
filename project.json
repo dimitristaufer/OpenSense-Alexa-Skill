@@ -1,0 +1,9 @@
+{
+    "name": "alexa",
+    "description": "Demonstrate",
+    "runtime": "nodejs8.10",
+    "role": "arn:aws:iam::601978101898:role/serverlessrepo-alexa-skil-alexaskillskitnodejsfact-E7WZMKZ5UU7H",
+    "handler": "index.handler",
+    "timeout": 7,
+    "memory": 128
+}
